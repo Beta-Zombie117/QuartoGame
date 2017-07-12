@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuartoGame</string>
+    <string name="action_settings">Settings</string>
+
+<string-array name="difficulties">
+
+    <item>EASY</item>
+    <item>NORMAL</item>
+    <item>HARD</item>
+
+</string-array>
+    
+
+
+</resources>
